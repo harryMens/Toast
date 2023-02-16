@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "bc-ur-Debug-armeabi-v7a": {
+      "artifactName": "bc-ur",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" bc-ur",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libbc-ur.so",
+      "runtimeFiles": []
+    },
+    "bc-ur-base-Debug-armeabi-v7a": {
+      "artifactName": "bc-ur-base",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" bc-ur-base",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\libbc-ur-base.a",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,17 @@
+ninja: Entering directory `C:\Users\DELL\AndroidStudioProjects\Coding\android\app\.cxx\cmake\debug\arm64-v8a'
+[1/16] Building C object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/crc32.c.o
+[2/16] Building C object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/memzero.c.o
+[3/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/bytewords.cpp.o
+[4/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/random-sampler.cpp.o
+[5/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-encoder.cpp.o
+[6/16] Building C object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/sha2.c.o
+[7/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-utils.cpp.o
+[8/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/ur-decoder.cpp.o
+[9/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/ur-encoder.cpp.o
+[10/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/xoshiro256.cpp.o
+[11/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/utils.cpp.o
+[12/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-decoder.cpp.o
+[13/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/ur.cpp.o
+[14/16] Linking CXX static library libbc-ur-base.a
+[15/16] Building CXX object CMakeFiles/bc-ur.dir/C_/Users/DELL/AndroidStudioProjects/Coding/java/src/main/jniLibs/bc-ur.cpp.o
+[16/16] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libbc-ur.so

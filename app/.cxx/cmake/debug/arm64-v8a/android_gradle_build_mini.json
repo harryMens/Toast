@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "bc-ur-Debug-arm64-v8a": {
+      "artifactName": "bc-ur",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" bc-ur",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libbc-ur.so",
+      "runtimeFiles": []
+    },
+    "bc-ur-base-Debug-arm64-v8a": {
+      "artifactName": "bc-ur-base",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" bc-ur-base",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\libbc-ur-base.a",
+      "runtimeFiles": []
+    }
+  }
+}

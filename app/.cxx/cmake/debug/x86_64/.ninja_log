@@ -1,0 +1,17 @@
+# ninja log v5
+10	573	698266149	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/crc32.c.o	8f6297ab819ddaf3
+29	626	698266149	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/memzero.c.o	3eafe93bc55343b3
+627	1159	698266150	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/sha2.c.o	803e2a9b478c481
+2	3250	698266152	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/bytewords.cpp.o	acabd783a5008d02
+14	3734	698266152	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-encoder.cpp.o	e5a40416964ed756
+583	3901	698266153	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/ur-encoder.cpp.o	53d0169375f9c890
+24	4094	698266153	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-utils.cpp.o	ec74dbb1c5190450
+1160	5422	698266154	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/ur-decoder.cpp.o	992338772d7d4000
+3252	5614	698266154	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/random-sampler.cpp.o	ed46b6995ff37ea3
+3902	6267	698266155	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/xoshiro256.cpp.o	329e5031ce19a37
+19	6716	698266155	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-decoder.cpp.o	c54cb6f5e6740253
+4094	6773	698266156	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/ur.cpp.o	bc43af92963a708e
+3734	6836	698266156	CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/utils.cpp.o	e7ecf92254029769
+6836	7425	698266156	libbc-ur-base.a	9d9153e615d95079
+5434	8631	698266157	CMakeFiles/bc-ur.dir/C_/Users/DELL/AndroidStudioProjects/Coding/java/src/main/jniLibs/bc-ur.cpp.o	1c09bb9a5681870a
+8631	9125	698266158	../../../../build/intermediates/cmake/debug/obj/x86_64/libbc-ur.so	c7b1d794ea178bb4

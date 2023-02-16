@@ -1,0 +1,125 @@
+{
+  "stringTable": {
+    "0": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -I/usr/local/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -I/usr/local/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "3": "--target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dbc_ur_EXPORTS -I/usr/local/include -IC:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "bc-ur-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\x86\" bc-ur",
+      "buildType": "debug",
+      "toolchain": "1280475072",
+      "abi": "x86",
+      "artifactName": "bc-ur",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\java\\src\\main\\jniLibs\\bc-ur.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libbc-ur.so",
+      "runtimeFiles": []
+    },
+    "bc-ur-base-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\x86\" bc-ur-base",
+      "buildType": "debug",
+      "toolchain": "1280475072",
+      "abi": "x86",
+      "artifactName": "bc-ur-base",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\bytewords.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-decoder.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-encoder.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\random-sampler.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur-decoder.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur-encoder.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\xoshiro256.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\crc32.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\memzero.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\sha2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\android\\app\\.cxx\\cmake\\debug\\x86\\libbc-ur-base.a",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1280475072": {
+      "cCompilerExecutable": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

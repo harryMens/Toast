@@ -1,0 +1,85 @@
+[
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\bytewords.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\bytewords.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\bytewords.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\crc32.c.o   -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\crc32.c",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\crc32.c"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-decoder.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-decoder.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-decoder.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-encoder.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-encoder.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-encoder.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-utils.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-utils.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\fountain-utils.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\memzero.c.o   -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\memzero.c",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\memzero.c"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\random-sampler.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\random-sampler.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\random-sampler.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\sha2.c.o   -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\sha2.c",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\sha2.c"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur-decoder.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur-decoder.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur-decoder.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur-encoder.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur-encoder.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur-encoder.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\ur.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\utils.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\utils.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\utils.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -I/usr/local/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur-base.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\xoshiro256.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\xoshiro256.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\deps\\bc-ur\\src\\xoshiro256.cpp"
+},
+
+{
+  "directory": "C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android22 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dbc_ur_EXPORTS -I/usr/local/include -IC:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -std=c++17 -stdlib=libc++ -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bc-ur.dir\\C_\\Users\\DELL\\AndroidStudioProjects\\Coding\\java\\src\\main\\jniLibs\\bc-ur.cpp.o -c C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\java\\src\\main\\jniLibs\\bc-ur.cpp",
+  "file": "C:\\Users\\DELL\\AndroidStudioProjects\\Coding\\java\\src\\main\\jniLibs\\bc-ur.cpp"
+}
+]

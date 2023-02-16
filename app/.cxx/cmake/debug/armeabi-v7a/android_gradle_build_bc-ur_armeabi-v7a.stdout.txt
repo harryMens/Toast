@@ -1,0 +1,61 @@
+ninja: Entering directory `C:\Users\DELL\AndroidStudioProjects\Coding\android\app\.cxx\cmake\debug\armeabi-v7a'
+[1/16] Building C object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/crc32.c.o
+[2/16] Building C object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/memzero.c.o
+[3/16] Building C object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/sha2.c.o
+[4/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/bytewords.cpp.o
+[5/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/ur-encoder.cpp.o
+[6/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-encoder.cpp.o
+In file included from C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-encoder.cpp:14:
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:161:29: warning: shift count >= width of type [-Wshift-count-overflow]
+        buffer.push_back((t >> 56) & 0xffU);
+                            ^  ~~
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:393:12: note: in instantiation of function template specialization 'CborLite::encodeTagAndValue<std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> >, unsigned int>' requested here
+    return encodeTagAndValue(buffer, Major::array, t);
+           ^
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-encoder.cpp:90:5: note: in instantiation of function template specialization 'CborLite::encodeArraySize<std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> >, unsigned int>' requested here
+    encodeArraySize(result, (size_t)5);
+    ^
+In file included from C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-encoder.cpp:14:
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:162:29: warning: shift count >= width of type [-Wshift-count-overflow]
+        buffer.push_back((t >> 48) & 0xffU);
+                            ^  ~~
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:163:29: warning: shift count >= width of type [-Wshift-count-overflow]
+        buffer.push_back((t >> 40) & 0xffU);
+                            ^  ~~
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:164:29: warning: shift count >= width of type [-Wshift-count-overflow]
+        buffer.push_back((t >> 32) & 0xffU);
+                            ^  ~~
+4 warnings generated.
+[7/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-utils.cpp.o
+[8/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/ur-decoder.cpp.o
+[9/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/random-sampler.cpp.o
+[10/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/xoshiro256.cpp.o
+[11/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/ur.cpp.o
+[12/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/fountain-decoder.cpp.o
+[13/16] Building CXX object CMakeFiles/bc-ur-base.dir/C_/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/utils.cpp.o
+[14/16] Linking CXX static library libbc-ur-base.a
+[15/16] Building CXX object CMakeFiles/bc-ur.dir/C_/Users/DELL/AndroidStudioProjects/Coding/java/src/main/jniLibs/bc-ur.cpp.o
+In file included from C:/Users/DELL/AndroidStudioProjects/Coding/java/src/main/jniLibs/bc-ur.cpp:11:
+In file included from C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src\bc-ur.hpp:24:
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:161:29: warning: shift count >= width of type [-Wshift-count-overflow]
+        buffer.push_back((t >> 56) & 0xffU);
+                            ^  ~~
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:307:16: note: in instantiation of function template specialization 'ur::CborLite::encodeTagAndValue<std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> >, unsigned int>' requested here
+    auto len = encodeTagAndValue(buffer, Major::byteString, t.size());
+               ^
+C:/Users/DELL/AndroidStudioProjects/Coding/java/src/main/jniLibs/bc-ur.cpp:329:19: note: in instantiation of function template specialization 'ur::CborLite::encodeBytes<std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> >, std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> > >' requested here
+        CborLite::encodeBytes(cbor, msg);
+                  ^
+In file included from C:/Users/DELL/AndroidStudioProjects/Coding/java/src/main/jniLibs/bc-ur.cpp:11:
+In file included from C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src\bc-ur.hpp:24:
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:162:29: warning: shift count >= width of type [-Wshift-count-overflow]
+        buffer.push_back((t >> 48) & 0xffU);
+                            ^  ~~
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:163:29: warning: shift count >= width of type [-Wshift-count-overflow]
+        buffer.push_back((t >> 40) & 0xffU);
+                            ^  ~~
+C:/Users/DELL/AndroidStudioProjects/Coding/deps/bc-ur/src/cbor-lite.hpp:164:29: warning: shift count >= width of type [-Wshift-count-overflow]
+        buffer.push_back((t >> 32) & 0xffU);
+                            ^  ~~
+4 warnings generated.
+[16/16] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\armeabi-v7a\libbc-ur.so

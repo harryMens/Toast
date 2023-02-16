@@ -1,0 +1,4 @@
+C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/bc-ur-base.dir
+C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/bc-ur.dir
+C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/DELL/AndroidStudioProjects/Coding/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
